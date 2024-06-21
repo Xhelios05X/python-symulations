@@ -1,0 +1,6 @@
+FCFS - średni czas oczekiwania: 516.2073, średni czas przetwarzania 17347.71
+Round Robin TQ: 0.5 - średni czas oczekiwania: 777.9263000000001, średni czas przetwarzania 38080.7023
+Round Robin TQ: 3 - średni czas oczekiwania: 189.4503, średni czas przetwarzania 8188.8517
+Round Robin TQ: 5 - średni czas oczekiwania: 135.2391, sredni czas przetwarzania 6255.1585
+SJF - średni czas oczekiwania: 26.0135, średcatni czas przetwarzania 534.5764
+    
